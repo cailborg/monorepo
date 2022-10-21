@@ -14,17 +14,17 @@ module.exports = {
       resolve: {
         alias: [
           {
-            find: '@bigstair/core',
+            find: '@equip/core',
             replacement: path.resolve(
               __dirname,
-              '../../../packages/bigstair-core/'
+              '../../../packages/equip-core/'
             ),
           },
           {
-            find: '@bigstair/map',
+            find: '@equip/map',
             replacement: path.resolve(
               __dirname,
-              '../../../packages/bigstair-map/'
+              '../../../packages/equip-map/'
             ),
           },
         ],

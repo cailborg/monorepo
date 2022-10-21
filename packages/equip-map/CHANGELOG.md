@@ -1,4 +1,4 @@
-# @bigstair/map
+# @equip/map
 
 ## 1.0.0
 
